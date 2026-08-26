@@ -1,0 +1,240 @@
+[
+  {
+    "brief_source_file": "01_cafe_music_whatsapp.txt",
+    "category": "musician",
+    "shortlist": [
+      {
+        "rank": 1,
+        "artist_id": "M01_Meera_Arjun",
+        "reasons": [
+          "Demonstrates direct capability in acoustic guitar performance and appropriate live gear setup suited for a small cafe venue.",
+          "Equipped with multi-effects pedalboards and vocal microphones which mitigates the risk of the cafe's unconfirmed in-house PA system."
+        ],
+        "relevant_demonstrated_signals": [
+          "Acoustic guitar performance",
+          "Live/studio performance setup with pedalboard and vocal mic"
+        ],
+        "non_applicable_or_absent_signals": [
+          "Electronic / Downtempo music production (absent/non-applicable)",
+          "Band instrumentation like full drums and electric bass (absent, perfectly matching the no-stage/small-space constraint)"
+        ],
+        "trade_offs": [
+          "Provided media sample primarily evidences a single performing member despite claiming to be a duo."
+        ],
+        "assumptions_made": [
+          "The artist's self-contained gear setup (pedalboards, mics) will be sufficient if the cafe's sound system is unusable."
+        ]
+      },
+      {
+        "rank": 2,
+        "artist_id": "M05_Lunar_Noise",
+        "reasons": [
+          "Demonstrates direct capability in Hindi vocal performance ('Nadaan Parinde' cover) which matches the explicit language requirement.",
+          "Demonstrates acoustic guitar performance, fitting the solo/duo format ideal for tight cafe spaces and low volumes."
+        ],
+        "relevant_demonstrated_signals": [
+          "Vocal performance (Hindi song cover)",
+          "Acoustic guitar performance"
+        ],
+        "non_applicable_or_absent_signals": [
+          "Full band instrumentation (absent)",
+          "PA system or advanced pedalboard gear setup (absent/unverified)"
+        ],
+        "trade_offs": [
+          "Lighting in demo visuals is dim, and sound quality must be inferred without explicit audio verification files."
+        ],
+        "assumptions_made": [
+          "As a solo performer, they can easily fit into the cafe space without a stage and operate within the target budget."
+        ]
+      }
+    ],
+    "overall_uncertainty_note": "The brief was sparse regarding exact musical genre preferences beyond Hindi/English and precise venue acoustics, but clear constraints on space, budget, and volume allowed for confident ranking of solo/duo acoustic acts with demonstrated gear.",
+    "improve_your_matches": [
+      {
+        "question": "What is the exact address or neighborhood of the cafe in Delhi NCR?",
+        "why_it_matters": "Helps verify exact travel feasibility and logistical fit for artists based across Delhi and Noida.",
+        "potential_ranking_impact": "Could slightly adjust preference if an artist lives significantly closer to the venue."
+      },
+      {
+        "question": "Does the cafe definitely require the artist to bring their own PA system?",
+        "why_it_matters": "Determines whether self-contained sound gear (like M01's pedalboard and mic setup) is a strict prerequisite.",
+        "potential_ranking_impact": "If a full PA is strictly required by the venue, M01 would securely hold the top spot while solo acts without heavy gear would need additional equipment clarification."
+      }
+    ]
+  },
+  {
+    "brief_source_file": "02_skincare_photography_chat.txt",
+    "category": "photographer",
+    "shortlist": [
+      {
+        "rank": 1,
+        "artist_id": "P02_Kabir_Mehta",
+        "reasons": [
+          "Demonstrates direct, high-confidence capability in commercial product photography, specifically with skincare items, bottles, jars, and liquid/splash effects.",
+          "Proven experience with professional studio lighting control and studio production context, which aligns with the requirement to handle a simple setup independently without a client-provided studio."
+        ],
+        "relevant_demonstrated_signals": [
+          "Product photography with clean studio lighting, liquid/splash effects, and professional composition for skincare items (media/609878058_18084106841154787_5898780034346918704_n.webp, media/610905695_18084106829154787_7361777869458644219_n.webp, media/736198656_17935296702298321_4359188965840404264_n.webp)",
+          "Team execution / Studio production context operating within a professional studio environment with multiple light modifiers and lighting equipment (media/613639637_18553028863065157_8205418550002430739_n.jpg)"
+        ],
+        "non_applicable_or_absent_signals": [
+          "Food photography claimed in bio (unsupported by sample media)",
+          "Urban architectural lighting and editorial fashion posing (secondary to product requirements)"
+        ],
+        "trade_offs": [
+          "Geographic location in Gurgaon or Delhi is unverified in the candidate record, requiring direct confirmation before booking."
+        ],
+        "assumptions_made": [
+          "Assumed Kabir Mehta can travel to or operate within the Gurgaon/Delhi area for the shoot."
+        ]
+      },
+      {
+        "rank": 2,
+        "artist_id": "P03_Leena_Thomas",
+        "reasons": [
+          "Demonstrates advanced, high-confidence capability in controlled lighting, managing mixed light sources, and staging surfaces/interiors (such as luxury bathrooms and hospitality settings) which translates well to styling and photographing cosmetic bottles and jars.",
+          "Excels at precision setups, twilight exposures, and integrating architectural LED strip lighting and warm fixture highlights against dark backgrounds."
+        ],
+        "relevant_demonstrated_signals": [
+          "Interior and hospitality photography capturing luxury contemporary spaces, atmospheric lighting, and clean surface staging (media/588875732_18384570010150306_5108195024455140251_n.jpg, media/619268337_18053520857690799_6505388170890118659_n.jpg, media/650059065_18041748788754101_1209241736054735372_n.jpg, media/669846967_18582977938049031_939833814684061084_n.jpg)",
+          "Controlled architectural lighting & mixed lighting balance handling integrated LED strips and reflections (media/472955981_18135833542377008_469825668246561939_n.jpg, media/619268337_18053520857690799_6505388170890118659_n.jpg)"
+        ],
+        "non_applicable_or_absent_signals": [
+          "Architectural and exterior building photography (non-applicable to small-scale product shots)",
+          "Solo vs. team execution structure and portable studio setup self-sufficiency (unverified in current records)"
+        ],
+        "trade_offs": [
+          "Leena specializes in spaces and interiors rather than macro or tabletop studio skincare product photography, representing a slight stylistic pivot from Rank 1."
+        ],
+        "assumptions_made": [
+          "Assumed Leena's precise control over architectural and interior lighting translates effectively to tabletop product staging for bottles and jars."
+        ]
+      }
+    ],
+    "overall_uncertainty_note": "The brief is moderately complete regarding deliverables and scope, but lacks geographic confirmation for the candidates and specific confirmation on studio setup gear. Confidence is high for Kabir Mehta due to direct product evidence, and moderate for Leena Thomas due to her strong lighting control.",
+    "improve_your_matches": [
+      {
+        "question": "Are both shortlisted photographers currently based in or able to travel to Gurgaon or Delhi for next week's shoot?",
+        "why_it_matters": "The brief explicitly requires the location to be in Gurgaon or Delhi, and candidate geographic bases are currently unverified.",
+        "potential_ranking_impact": "If one candidate cannot work in Gurgaon/Delhi, they would be disqualified and replaced by an alternative artist."
+      }
+    ]
+  },
+  {
+    "brief_source_file": "03_vertical_video_email.txt",
+    "category": "video_editor",
+    "shortlist": [
+      {
+        "rank": 1,
+        "artist_id": "V01_Nisha_Kapoor",
+        "reasons": [
+          "Demonstrates direct expertise in short-form social media pacing and event recap editing, which aligns with taking ~70 raw clips and distilling them into an energetic 30-second vertical video.",
+          "Shows competence in minimal, clean typographic text overlays which fits the clean editing style requirement."
+        ],
+        "relevant_demonstrated_signals": [
+          "Short-form social media editing & pacing",
+          "Event recap & corporate/social gathering editing",
+          "Title card & basic text overlay integration"
+        ],
+        "non_applicable_or_absent_signals": [
+          "Food & lifestyle videography editing (not directly required for this event brief)"
+        ],
+        "trade_offs": [
+          "Audio mixing and sound design capabilities are unverified from the visual keyframes alone, relying primarily on visual pacing."
+        ],
+        "assumptions_made": [
+          "Assumed Nisha's event recap and social pacing experience translates smoothly to handling unstructured phone-shot event footage under the tight Friday deadline."
+        ]
+      },
+      {
+        "rank": 2,
+        "artist_id": "VO4_Shivam_media",
+        "reasons": [
+          "Demonstrated strength in short-form video editing, titling, and live event/cultural assembly.",
+          "Has proven capability in constructing structured vertical video edits from event footage with caption integration."
+        ],
+        "relevant_demonstrated_signals": [
+          "Short-form video editing and titling",
+          "Event and cultural videography editing"
+        ],
+        "non_applicable_or_absent_signals": [
+          "Portrait photography capabilities (irrelevant for a video editing task)"
+        ],
+        "trade_offs": [
+          "The exact scope of post-production color grading versus in-camera looks is unverified, which presents a minor unknown regarding aesthetic control."
+        ],
+        "assumptions_made": [
+          "Assumed Shivam's experience with event and cultural videography assembly covers curation of unorganized raw footage into a cohesive narrative."
+        ]
+      }
+    ],
+    "overall_uncertainty_note": "The brief is moderately complete with clear constraints on format, length, and style, though audio quality of the raw clips and specific currency of the budget remain unknown. These gaps did not prevent confident matching based on demonstrated short-form and event editing skills.",
+    "improve_your_matches": [
+      {
+        "question": "What is the exact currency of the 8-10k budget?",
+        "why_it_matters": "Clarifying the currency ensures the candidate's rate expectations align strictly with the hirer's compensation framework.",
+        "potential_ranking_impact": "Could adjust cost feasibility or candidate preference if regional rate cards apply."
+      }
+    ]
+  },
+  {
+    "brief_source_file": "04_leadership_event_photos.txt",
+    "category": "photographer",
+    "shortlist": [
+      {
+        "rank": 1,
+        "artist_id": "P01_Aanya_Rao",
+        "reasons": [
+          "Demonstrates direct experience in live event and concert photography requiring dynamic framing and crowd capture.",
+          "Proven low-light and indoor venue/interior photography capability, addressing the risk of unknown indoor lighting conditions.",
+          "Fits the candid event coverage priority by capturing authentic reactions and atmospheric moments rather than static staging."
+        ],
+        "relevant_demonstrated_signals": [
+          "Event & concert photography with complex stage setups and crowds",
+          "Low-light & venue/interior photography managing high-contrast light sources"
+        ],
+        "non_applicable_or_absent_signals": [
+          "Workshop and small business product photography claimed in bio but lacking sample evidence",
+          "Studio lighting setup and formal portraiture"
+        ],
+        "trade_offs": [
+          "Lacks demonstrated formal corporate headshot experience, relying entirely on candid event execution capability."
+        ],
+        "assumptions_made": [
+          "Assumed that concert and venue event experience translates directly to corporate off-site candid coverage.",
+          "Assumed ability to deliver same-day edits based on standard fast-turnaround event workflows."
+        ]
+      },
+      {
+        "rank": 2,
+        "artist_id": "PO5_Frames",
+        "reasons": [
+          "Demonstrated ability to freeze fast motion and handle dynamic action in event settings.",
+          "Strong natural lighting and golden hour control which supports indoor/outdoor adaptability if venue lighting is complex."
+        ],
+        "relevant_demonstrated_signals": [
+          "Action & Event/Sports Photography freezing fast motion",
+          "Architectural/Landmark Photography demonstrating composition control"
+        ],
+        "non_applicable_or_absent_signals": [
+          "Claimed fashion and studio product photography unsupported by evidence",
+          "Unverified studio lighting equipment setup for indoor corporate environments"
+        ],
+        "trade_offs": [
+          "Action and sports event experience is more high-octane than standard corporate off-sites, though it guarantees dynamic coverage."
+        ],
+        "assumptions_made": [
+          "Assumed high-speed action and sports event coverage skills adapt effectively to a corporate leadership off-site environment."
+        ]
+      }
+    ],
+    "overall_uncertainty_note": "The brief lacked specific venue lighting details, exact headshot time allocations, and explicit budget constraints, making confidence hinge primarily on general event and low-light capability.",
+    "improve_your_matches": [
+      {
+        "question": "Are the 10-15 leadership headshots mandatory, or can they be completely dropped in favor of 100% candid coverage?",
+        "why_it_matters": "Knowing if headshots are strictly required helps filter for artists with strong studio portraiture capabilities rather than purely candid event specialists.",
+        "potential_ranking_impact": "If headshots are mandatory, Kabir Mehta (P02) would move up due to his strong studio portrait and lighting background."
+      }
+    ]
+  }
+]

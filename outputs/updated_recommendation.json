@@ -1,0 +1,58 @@
+{
+  "brief_source_file": "01_cafe_music_whatsapp.txt",
+  "update_source_file": "follow_up_081.txt",
+  "category": "musician",
+  "what_changed": [
+    "Event purpose changed from casual background cafe music to a caf\u00e9 launch night with around 80 guests.",
+    "Performance format shifted from 3 hours of background ambience to a dedicated 45-minute headline set.",
+    "Budget increased from 7k\u20139k to up to 15k.",
+    "Space constraint updated: a small performance area can now be cleared for the artist."
+  ],
+  "requirement_shape_changed": true,
+  "requirement_shape_change_explanation": "The requirement shifted fundamentally from continuous, low-attention background ambience to a focused, high-engagement headline performance for 80 guests. This changes the core capabilities required from endurance and background textural play to stage presence, performance delivery, and holding an audience's attention during a dedicated set.",
+  "updated_shortlist": [
+    {
+      "rank": 1,
+      "artist_id": "M04_KillRush",
+      "reasons": [
+        "Demonstrates capability as a full live band and multi-member acoustic ensemble, which is ideal for creating a headline 'moment' and holding an 80-person crowd's attention.",
+        "Demonstrates diverse instrumentation (electric/acoustic guitars, bass, drums, flute, and vocals) providing the dynamic energy needed for a launch event."
+      ],
+      "relevant_demonstrated_signals": [
+        "Band instrumentation and live ensemble setup (electric guitar, bass, drums, vocals)",
+        "Acoustic duo/trio performance (acoustic guitar, flute, vocals)"
+      ],
+      "trade_offs": [
+        "Requires slightly more space than a pure solo act, though the brief confirms a small performance area can now be cleared."
+      ],
+      "assumptions_made": [
+        "The increased budget of up to 15k accommodates a multi-member band or ensemble."
+      ],
+      "changed_from_original": "newly_added"
+    },
+    {
+      "rank": 2,
+      "artist_id": "M01_Meera_Arjun",
+      "reasons": [
+        "Demonstrates strong acoustic guitar performance and professional live gear setups (pedalboards, vocal mics), ensuring reliable sound projection for an 80-guest launch night.",
+        "Equipped with self-contained gear that bridges any uncertainty regarding the venue's unconfirmed PA system."
+      ],
+      "relevant_demonstrated_signals": [
+        "Acoustic guitar performance",
+        "Live/studio performance setup with pedalboard and vocal mic"
+      ],
+      "trade_offs": [
+        "Primarily evidenced as a single performing member despite claiming to be a duo, which may feel less like a full headline band compared to M04."
+      ],
+      "assumptions_made": [
+        "Can adapt their acoustic set to feel like an engaging 45-minute headline feature rather than background ambience."
+      ],
+      "changed_from_original": "reordered"
+    }
+  ],
+  "still_unresolved": [
+    "Whether the cafe's in-house sound system is usable for a headline performance, or if the artists must bring their own complete PA.",
+    "Exact setlist preferences or genre breakdown (Hindi vs. English) for the 45-minute headline slot."
+  ],
+  "summary_of_what_changed_and_why": "The brief transformed from casual background music into a high-visibility launch night requiring a focused 45-minute headline performance for 80 guests, supported by an increased budget of up to 15k and a dedicated performance area. This shift elevates multi-member band and ensemble capabilities (M04_KillRush) alongside well-equipped acoustic acts (M01_Meera_Arjun) to deliver the necessary stage presence and crowd engagement."
+}
